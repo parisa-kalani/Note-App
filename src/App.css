@@ -101,3 +101,9 @@
 .note-item__footer {
   color: var(--text-300);
 }
+
+.trash-icon{
+color: rgb(226, 12, 12);
+width: 17px;
+height: 17px;
+}
